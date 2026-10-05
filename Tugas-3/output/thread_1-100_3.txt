@@ -1,0 +1,5 @@
+Input angka awal: Input angka akhir: Thread yang digunakan: 9:24 Thread-1 menjumlahkan 1 s.d. 34 = 595
+9:24 Thread-2 menjumlahkan 35 s.d. 67 = 1683
+9:24 Thread-3 menjumlahkan 68 s.d. 100 = 2772
+
+Hasil penjumlahan: 5050

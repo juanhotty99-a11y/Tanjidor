@@ -1,0 +1,12 @@
+[2026-10-05 14:09:25] [Warning]  AutoInterface[Default Interface] could not autoconfigure. This interface currently provides no connectivity.
+=== IDENTITY ===
+Identity              : <e653aff3be06ef0ccc5f770828bd5114>
+Identity hash         : <e653aff3be06ef0ccc5f770828bd5114>
+Public key            : 318daabd48a259a9afdfc056ce5c849d411a3e136c82103f297eaf83ba26b944acd7316c36ff9a5b66f6194d302df714a6b9c9bffd57ba361f79db7468628822
+
+=== DESTINATION ===
+Destination           : <tugas3.kelompok.e653aff3be06ef0ccc5f770828bd5114:3cc293f3d5981c50551d8aebeb338aca>
+Nama destination      : tugas3.kelompok.e653aff3be06ef0ccc5f770828bd5114
+Destination hash      : <3cc293f3d5981c50551d8aebeb338aca>
+Arah (direction)      : IN
+Tipe                  : SINGLE

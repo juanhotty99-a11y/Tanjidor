@@ -1,0 +1,6 @@
+Input angka awal: Input angka akhir: Thread yang digunakan: 9:24 Thread-1 menjumlahkan 1 s.d. 3 = 6
+9:24 Thread-2 menjumlahkan 4 s.d. 6 = 15
+9:24 Thread-3 menjumlahkan 7 s.d. 8 = 15
+9:24 Thread-4 menjumlahkan 9 s.d. 10 = 19
+
+Hasil penjumlahan: 55
